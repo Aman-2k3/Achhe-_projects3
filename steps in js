@@ -1,0 +1,7 @@
+smmoth scrolling
+    -attach loco scroll css
+    -attach loconotive scroll min js
+    -some code from loco gitgub for js
+
+gsap
+  -attach gsap    
